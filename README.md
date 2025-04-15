@@ -1,5 +1,5 @@
 # DataTeam
-Below is a list of the team members supporting the mapping projects.
+Below is a list of the team members supporting the mapping projects
 
 1.  [Colin](https://www.openstreetmap.org/user/Ironman324)
  2. [Nova](https://www.openstreetmap.org/user/CaptainVietnam)
